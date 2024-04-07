@@ -48,7 +48,6 @@ class Televisao:
             print("O canal atual é: ", self.canal)
     
     def selecionarCanal(self, numCanal):
-        # self.numCanal = numCanal
         self.canal = numCanal
         print("A televisão esta no canal: ", self.canal)
     
